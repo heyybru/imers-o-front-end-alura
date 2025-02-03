@@ -59,11 +59,11 @@ O projeto foi desenvolvido em 5 aulas, cada uma focada em uma etapa:
 ## 🖥 Como Executar o Projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/spotify-home-clone.git
+   git clone https://github.com/heyybru/imers-o-front-end-alura
    ```
 2. Acesse a pasta do projeto:  
    ```bash
-   cd spotify-home-clone
+   cd imers-o-front-end-alura
    ```
 3. Para rodar com HTML, CSS e JS:  
    - Abra o arquivo `index.html` no navegador ou use o Live Server no VSCode.  
