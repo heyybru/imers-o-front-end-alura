@@ -59,11 +59,11 @@ O projeto foi desenvolvido em 5 aulas, cada uma focada em uma etapa:
 ## 🖥 Como Executar o Projeto  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/heyybru/imers-o-front-end-alura
+   git clone https://github.com/heyybru/imersao-front-end-alura
    ```
 2. Acesse a pasta do projeto:  
    ```bash
-   cd imers-o-front-end-alura
+   cd imersao-front-end-alura
    ```
 3. Para rodar com HTML, CSS e JS:  
    - Abra o arquivo `index.html` no navegador ou use o Live Server no VSCode.  
@@ -74,4 +74,4 @@ O projeto foi desenvolvido em 5 aulas, cada uma focada em uma etapa:
    ```
 
 ## 📄 Licença
-Este projeto é apenas para fins educacionais e não possui vinculação oficial com o Spotify. # imers-o-front-end-alura
+Este projeto é apenas para fins educacionais e não possui vinculação oficial com o Spotify. #imersao-front-end-alura
