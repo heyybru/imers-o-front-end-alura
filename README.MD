@@ -74,5 +74,4 @@ O projeto foi desenvolvido em 5 aulas, cada uma focada em uma etapa:
    ```
 
 ## 📄 Licença
-
-Este projeto é apenas para fins educacionais e não possui vinculação oficial com o Spotify.# imers-o-front-end-alura
+Este projeto é apenas para fins educacionais e não possui vinculação oficial com o Spotify. # imers-o-front-end-alura
